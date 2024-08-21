@@ -138,7 +138,7 @@ Request components:
 
 Response components:
 
-- Status code: 200
+- Status code: 201
 - Headers:
   - Content-Type: "application/json"
 - Body:
@@ -286,7 +286,7 @@ Request components:
 
 Response components:
 
-- Status code: 200
+- Status code: 201
 - Headers:
   - Content-Type : "application/json"
 - Body:
@@ -506,7 +506,7 @@ Request components:
 
 Response components:
 
-- Status code: 200
+- Status code: 201
 - Headers:
   - Content-Type : "application/json"
 - Body:
